@@ -1,0 +1,2 @@
+wait(30)
+game.Players.LocalPlayer:kick("You have been banned by SF Anti Exploit - Time : Infinite")
